@@ -1,5 +1,7 @@
 # Programação de Soluções Computacionais
 
+Alunos: Pedro Moreira Carvalho & Pietro Schuster Moreira
+
 ## Fixação - Exercício 02
 
 <p align="center">
